@@ -1,0 +1,19 @@
+# Flask web framework
+Flask==3.0.0
+
+# LangChain and its core modules
+langchain==0.1.13
+langchain-community==0.0.32
+langchain-core==0.1.27
+
+# Sentence Transformers for embeddings
+sentence-transformers==2.7.0
+
+# FAISS for vector store
+faiss-cpu==1.7.4
+
+# Hugging Face Hub for embeddings and LLM
+huggingface-hub==0.23.0
+
+# Requests for API calls
+requests==2.31.0
