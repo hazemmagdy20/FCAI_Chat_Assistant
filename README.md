@@ -24,4 +24,11 @@ It allows students, staff, or anyone interested to ask questions about the acade
 4. 🤖 **Calls a large language model (LLM) to generate answers using the retrieved context**
 5. 💬 **Displays answers in a web chat interface**
 
+## How to use
+
+1. Install all required packages using pip install -r requirements.txt
+2. Run the Flask server using python app.py
+
+
+
 
